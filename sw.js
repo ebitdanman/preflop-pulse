@@ -1,4 +1,4 @@
-const CACHE_NAME = 'preflop-pulse-v1';
+const CACHE_NAME = 'preflop-pulse-v2';
 const ASSETS = [
   './',
   './index.html',
